@@ -1,0 +1,152 @@
+\begin{thebibliography}{18}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Almakhour et~al.(2018)}]{almakhour2018}
+\bibinfo{author}{Almakhour, R.}, et~al., \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Phishing detection: A survey}.
+\newblock \bibinfo{journal}{IEEE Cloud Computing} \bibinfo{volume}{5},
+  \bibinfo{pages}{8--24}.
+\newblock \DOIprefix\doi{10.1109/MCC.2018.071971}.
+%Type = Misc
+\bibitem[{Ashadzzaman(2026)}]{ashadzzaman2026}
+\bibinfo{author}{Ashadzzaman, B.M.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{{EACS Dataset}: A real-world academic admit card
+  dataset from {Bangladeshi} educational institutions for {OCR} and document
+  verification research}.
+\newblock \bibinfo{howpublished}{Mendeley Data, V1}.
+\newblock \DOIprefix\doi{10.17632/mvzdksjzvb.1}.
+%Type = Article
+\bibitem[{Ba et~al.(2016)}]{ba2016}
+\bibinfo{author}{Ba, Y.}, et~al., \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{SynthText}: Generating synthetic text of arbitrary
+  lengths}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1603.09102}
+  \DOIprefix\doi{10.48550/arXiv.1603.09102}.
+%Type = Misc
+\bibitem[{{Elsevier}(2024)}]{elsevier2024}
+\bibinfo{author}{{Elsevier}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{Data in Brief}: Guide for authors}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.elsevier.com/journals/data-in-brief/2352-3409/guide-for-authors}}.
+%Type = Misc
+\bibitem[{{European Union}(2016)}]{gdpr2016}
+\bibinfo{author}{{European Union}}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Regulation ({EU}) 2016/679 ({GDPR}) on the protection
+  of natural persons with regard to the processing of personal data and on the
+  free movement of such data}.
+\newblock \bibinfo{howpublished}{Official Journal of the European Union, L
+  119}.
+\newblock \DOIprefix\doi{10.3000/19770105.L_2016.119.eng}.
+%Type = Inproceedings
+\bibitem[{Fridrich and Kodovsk\'y(2004)}]{fridrich2004}
+\bibinfo{author}{Fridrich, J.}, \bibinfo{author}{Kodovsk\'y, J.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Robust statistical tests for image tampering in the
+  {JPEG} domain}, in: \bibinfo{booktitle}{Proc. Sixth Int. Workshop Information
+  Hiding (IH)}, pp. \bibinfo{pages}{17--33}.
+\newblock \DOIprefix\doi{10.1007/978-3-540-28612-0_3}.
+%Type = Article
+\bibitem[{Goljan et~al.(2012)Goljan, Fridrich and Soukal}]{goljan2012}
+\bibinfo{author}{Goljan, M.}, \bibinfo{author}{Fridrich, J.},
+  \bibinfo{author}{Soukal, T.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Passive steganalysis by color matching}.
+\newblock \bibinfo{journal}{IEEE Trans. Information Forensics and Security}
+  \bibinfo{volume}{7}, \bibinfo{pages}{53--63}.
+\newblock \DOIprefix\doi{10.1109/TIFS.2011.2171869}.
+%Type = Article
+\bibitem[{Graves and Schmidhuber(2005)}]{graves2005}
+\bibinfo{author}{Graves, A.}, \bibinfo{author}{Schmidhuber, J.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Framewise phoneme classification with bidirectional
+  {LSTM} and other neural network architectures}.
+\newblock \bibinfo{journal}{Neural Networks} \bibinfo{volume}{18},
+  \bibinfo{pages}{602--616}.
+\newblock \DOIprefix\doi{10.1016/j.neunet.2005.05.002}.
+%Type = Article
+\bibitem[{Hunter(2007)}]{hunter2007}
+\bibinfo{author}{Hunter, J.D.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Matplotlib: A 2{D} graphics environment}.
+\newblock \bibinfo{journal}{Computing in Science \& Engineering}
+  \bibinfo{volume}{9}, \bibinfo{pages}{90--95}.
+\newblock \DOIprefix\doi{10.1109/MCSE.2007.55}.
+%Type = Inproceedings
+\bibitem[{Jaderberg et~al.(2014)}]{jaderberg2014}
+\bibinfo{author}{Jaderberg, M.}, et~al., \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Reading text in the wild with convolutional neural
+  networks}, in: \bibinfo{booktitle}{Proc. European Conf. Computer Vision
+  (ECCV)}, pp. \bibinfo{pages}{25--33}.
+\newblock \DOIprefix\doi{10.1007/978-3-319-10630-6_3}.
+%Type = Article
+\bibitem[{Li et~al.(2019)}]{li2019}
+\bibinfo{author}{Li, Y.}, et~al., \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{TableBank}: Table extraction from documents using a
+  novel two-stage pipeline}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1903.01949}
+  \DOIprefix\doi{10.48550/arXiv.1903.01949}.
+%Type = Inproceedings
+\bibitem[{McKinney(2010)}]{mckinney2010}
+\bibinfo{author}{McKinney, W.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Data structures for statistical computing in
+  {P}ython}, in: \bibinfo{booktitle}{Proc. 9th {P}ython in Science Conf.}, pp.
+  \bibinfo{pages}{51--56}.
+\newblock \DOIprefix\doi{10.25080/shinma-2f4f1c56-001}.
+%Type = Misc
+\bibitem[{{NationalSchoolIntra}(2023)}]{nationalschoolintra}
+\bibinfo{author}{{NationalSchoolIntra}}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Enterprise resource planning ({ERP}) platform for
+  educational institutions}.
+\newblock \bibinfo{howpublished}{\url{https://nationalschoolintra.com/}}.
+%Type = Inproceedings
+\bibitem[{Reuel et~al.(2019)}]{reuel2019}
+\bibinfo{author}{Reuel, A.}, et~al., \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{Tesseract} {OCR} alternative engine comparison}, in:
+  \bibinfo{booktitle}{Proc. 2019 Int. Conf. Pattern Recognition (ICPR)}, pp.
+  \bibinfo{pages}{11320--11325}.
+\newblock \DOIprefix\doi{10.1109/ICPR.2019.00120}.
+%Type = Inproceedings
+\bibitem[{Smith(2007)}]{smith2007}
+\bibinfo{author}{Smith, R.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{An overview of the {Tesseract} {OCR} engine}, in:
+  \bibinfo{booktitle}{Proc. Ninth Int. Conf. on Document Analysis and
+  Recognition (ICDAR)}, pp. \bibinfo{pages}{629--633}.
+\newblock \DOIprefix\doi{10.1109/ICDAR.2007.427696}.
+%Type = Article
+\bibitem[{Virtanen et~al.(2020)Virtanen, Gommers, Oliphant
+  et~al.}]{virtanen2020}
+\bibinfo{author}{Virtanen, P.}, \bibinfo{author}{Gommers, R.},
+  \bibinfo{author}{Oliphant, T.E.}, et~al., \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{SciPy} 1.0: Fundamental algorithms for scientific
+  computing in {P}ython}.
+\newblock \bibinfo{journal}{Nature Methods} \bibinfo{volume}{17},
+  \bibinfo{pages}{261--272}.
+\newblock \DOIprefix\doi{10.1038/s41592-019-0686-2}.
+%Type = Article
+\bibitem[{Wilkinson et~al.(2016)Wilkinson, Dumontier, Aalbersberg
+  et~al.}]{wilkinson2016}
+\bibinfo{author}{Wilkinson, M.D.}, \bibinfo{author}{Dumontier, M.},
+  \bibinfo{author}{Aalbersberg, I.J.}, et~al., \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{The {FAIR} guiding principles for scientific data
+  management and stewardship}.
+\newblock \bibinfo{journal}{Scientific Data} \bibinfo{volume}{3},
+  \bibinfo{pages}{160018}.
+\newblock \DOIprefix\doi{10.1038/sdata.2016.18}.
+%Type = Article
+\bibitem[{Zhong et~al.(2019)}]{zhong2019}
+\bibinfo{author}{Zhong, X.}, et~al., \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{PubLayNet}: Largest dataset ever for document layout
+  analysis}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1908.07836}
+  \DOIprefix\doi{10.48550/arXiv.1908.07836}.
+
+\end{thebibliography}

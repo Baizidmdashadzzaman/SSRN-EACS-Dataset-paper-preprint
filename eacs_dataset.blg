@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: eacs_dataset.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+The style file: cas-model2-names.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: eacs-refs.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 18 entries,
+            2990 wiz_defined-function locations,
+            851 strings with 9348 characters,
+and the built_in function-call counts, 10891 in all, are:
+= -- 931
+> -- 308
+< -- 20
++ -- 124
+- -- 102
+* -- 1033
+:= -- 1599
+add.period$ -- 62
+call.type$ -- 18
+change.case$ -- 116
+chr.to.int$ -- 18
+cite$ -- 18
+duplicate$ -- 861
+empty$ -- 835
+format.name$ -- 152
+if$ -- 2113
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 142
+newline$ -- 113
+num.names$ -- 72
+pop$ -- 263
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 337
+stack$ -- 0
+substring$ -- 476
+swap$ -- 547
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 162
+warning$ -- 0
+while$ -- 80
+width$ -- 0
+write$ -- 283

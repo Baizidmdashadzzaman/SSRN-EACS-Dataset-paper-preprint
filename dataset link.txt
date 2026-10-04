@@ -1,0 +1,5 @@
+dataset link: https://data.mendeley.com/datasets/mvzdksjzvb/1
+dataset citation : 
+Ashadzzaman, Baizid MD (2026), “EACS Dataset: A Real-World Academic Admit Card Dataset from Bangladeshi Educational Institutions for OCR and Document Verification Research”, Mendeley Data, V1, doi: 10.17632/mvzdksjzvb.1
+author : Baizid MD Ashadzzaman email:baizid.md.ashadzzaman@gmail.con Institution : International Islamic University Chittagong,Bangladesh
+orcid id : https://orcid.org/my-orcid?orcid=0009-0008-4137-5905

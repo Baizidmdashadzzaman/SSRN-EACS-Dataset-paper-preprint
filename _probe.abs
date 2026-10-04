@@ -1,0 +1,23 @@
+Educational institutions in South Asia issue large volumes of machine-printed
+examination admit cards, yet no openly available corpus exists for research on
+optical character recognition (OCR) or automated verification of such documents.
+This data paper presents the EACS (Exam Admit Card) Dataset: 4{,}407 admit card
+images collected between 2022 and 2025 from the NationalSchoolIntra enterprise
+resource planning platform operated by Al Quran Academy, Chattogram, Bangladesh.
+Each record is a standardised $800 \times 460$ pixel JPEG rendering of one card
+and carries nine textual fields (student name, father's name, mother's name,
+institutional student identifier, examination roll number, class, session, group
+and semester) together with the list of registered subjects and the scheduled
+examination date. A companion metadata file supplies a verified ground-truth
+transcription for every field of every card, so that recognition error can be
+measured at character, word and field level. The images were exported from the
+live production system rather than generated synthetically, and consequently
+retain the typographic, alignment and print-quality variation that synthetic
+corpora typically omit, a property that materially affects measured OCR
+accuracy. Student photographs, contact details and signatures were removed, and
+all personal names and identifiers were systematically randomised while
+preserving their structural and linguistic characteristics, allowing the corpus
+to be distributed openly. The dataset is released on Mendeley Data (version 1,
+doi: \datasetdoi). Intended applications include OCR benchmarking, document
+layout analysis, key-information extraction from administrative documents, and
+the development of tamper-detection mechanisms for academic credentials.
